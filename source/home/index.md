@@ -22,7 +22,17 @@ permalink: index.html
 
 {% post_link story %}
 [时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)
+
+<details>
+<summary>更多..</summary>
+<pre>
+   待续..
+</pre>
+
 [原举报资料](https://peyoot.github.io/home_administrative_suit/static/2019-realname-report.pdf)
+
+</details>
+
 
 👨[可行性分析和受干预可能性]
 
