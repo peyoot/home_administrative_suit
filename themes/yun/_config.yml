@@ -507,8 +507,8 @@ comment:
   enable: true
   icon: icon-chat-3-line
   tips:
-    - 点击按钮跳转 GitHub Issues 评论。
-    - 若没有本文 Issue，您可以使用 Comment 模版新建。
+    - 请多多指教，留下宝贵意见
+    
 
 # GitHub Issues Link Button
 # https://help.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests
