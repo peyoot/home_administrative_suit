@@ -22,6 +22,7 @@ permalink: index.html
 
 点击查看{% post_link story %}
 [时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)
+[调解协议缘由和错误图解] (https://peyoot.github.io/home_administrative_suit/static/apportion.html)
 
 <details>
 <summary>更多..</summary>
