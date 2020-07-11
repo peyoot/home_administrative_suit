@@ -24,7 +24,8 @@ permalink: index.html
 {% post_link story %}
 [时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)　[在手机上查看时间轴图片](https://cdn.jsdelivr.net/gh/peyoot/pic_bed/images/time-line-history.png)
 
-调解协议缘由和错误图解[电脑网页版](https://peyoot.github.io/home_administrative_suit/static/apportion.html)
+调解协议缘由和错误图解
+[电脑网页版](https://peyoot.github.io/home_administrative_suit/static/apportion.html)
 ![](https://cdn.jsdelivr.net/gh/peyoot/pic_bed/images/apportion.png)
 
 <details>
