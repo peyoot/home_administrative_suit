@@ -22,10 +22,10 @@ permalink: index.html
 
 点击下面查看详情
 {% post_link story %}
-[时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)　[在手机上查看时间轴图片](https://raw.githubusercontent.com/peyoot/pic_bed/master/images/time-line-history.png)
+[时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)　[在手机上查看时间轴图片](https://cdn.jsdelivr.net/gh/peyoot/pic_bed/images/time-line-history.png)
 
 调解协议缘由和错误图解[电脑网页版](https://peyoot.github.io/home_administrative_suit/static/apportion.html)
-![](https://raw.githubusercontent.com/peyoot/pic_bed/master/images/apportion.png)
+![](https://cdn.jsdelivr.net/gh/peyoot/pic_bed/images/apportion.png)
 
 <details>
 <summary>更多..</summary>
