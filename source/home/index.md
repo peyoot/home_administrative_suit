@@ -7,7 +7,7 @@ permalink: index.html
 ---
 > 行政诉讼资料和分析🤝
 
-## 🏠 家乡行政诉讼资料和分析报告
+## 🏠 家乡诉讼资料和分析报告
 导言：为什么需要行政诉讼
     乡镇奇案，自然灾害安置补偿款纠纷 ，何以被官员当成产权纠纷？
     七十年代建成的早已确权的房子，如何被当成没确权的房子由政府官员强制调解产权？
@@ -18,12 +18,14 @@ permalink: index.html
 
 听起来，好像是旧社会才有的事情，但这实实在在发生在21世纪的新中国。欺上瞒下的官员是基层司法所人员，却被层层保护起来，没有得到任何处理。仍然在镇上横行，对受害人指指戳戳，污言秽语毫无忌惮。因为举报总是石沉大海，上访总是被截访。如果没有申诉渠道，，不如就通过司法手段来还原真相。
 
-## ⏱ 事件历史
+## ⏱ 事件历史　
 
 点击下面查看详情
 {% post_link story %}
-[时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)
-[调解协议缘由和错误图解](https://peyoot.github.io/home_administrative_suit/static/apportion.html)
+[时间轴](https://peyoot.github.io/home_administrative_suit/static/time-line-history.html)　[在手机上查看时间轴图片](https://raw.githubusercontent.com/peyoot/pic_bed/master/images/time-line-history.png)
+
+调解协议缘由和错误图解[电脑网页版](https://peyoot.github.io/home_administrative_suit/static/apportion.html)
+![](https://raw.githubusercontent.com/peyoot/pic_bed/master/images/apportion.png)
 
 <details>
 <summary>更多..</summary>
